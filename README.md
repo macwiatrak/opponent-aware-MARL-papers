@@ -7,7 +7,10 @@ This short collection of research publications and useful resources offers an in
 
 The collection has been created for research purposes. If any authors would not like their publications to be listed in this list or have any remarks, please reach out to macwiatrak [at] gmail.com.
 
-# Centralized learning decentralized execution
+## Centralized learning decentralized execution
+* [Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469) by Letcher A., Foerster J., Balduzzi D., Rocktäschel T., Whiteson S. arXiv, 2018.
+* [QMIX: Monotonic Value Function Factorisation for Deep Multi−Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485) by Rashid T., Samvelyan M., et al. arXiv, 2018.
+
 - LOLA
 - QMIX
 - COMA
@@ -15,5 +18,5 @@ The collection has been created for research purposes. If any authors would not 
 - SOS
 - MADDPG
 
-# Decentralized learning decentralized execution
+## Decentralized learning decentralized execution
 - PR2
