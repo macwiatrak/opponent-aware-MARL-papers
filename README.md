@@ -12,9 +12,9 @@ The collection has been created for research purposes. If any authors would not 
 * [QMIX: Monotonic Value Function Factorisation for Deep Multi−Agent Reinforcement Learning](https://arxiv.org/pdf/1803.11485.pdf) by Rashid T., Samvelyan M., et al. arXiv, 2018.
 * [DiCE: The Infinitely Differentiable Monte Carlo Estimator](https://arxiv.org/pdf/1802.05098.pdf) by Foerster J., Farquhar G., Al-Shedivat M., et al. arXiv, 2018.
 * [Learning with Opponent-Learning Awareness](https://arxiv.org/pdf/1709.04326.pdf) by Foerster J., Chen R., et al. arXiv, 2018.
-
-- COMA
-- MADDPG
+* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environment](https://arxiv.org/pdf/1706.02275.pdf) by Lowe R., Wu Y., et al. arXiv, 2018.
+* [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/pdf/1705.08926.pdf) by Foerster J., Farquhar G., et al. arXiv, 2017.
 
 ## Decentralized learning decentralized execution
-- PR2
+* [Multi-Agent Generalized Recursive Reasoning](https://arxiv.org/pdf/1901.09216.pdf) by Wen Y., Yang Y., et al. arXiv, 2019.
+* [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1901.09207.pdf) by Wen Y., Yang Y., et al. arXiv, 2019.
